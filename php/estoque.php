@@ -18,6 +18,7 @@ include("conexao.php");
                 <a href="../index.html">Inicio</a>
                 <a href="estoque.php">Estoque</a>
                 <a href="../sobre.html">Sobre</a>
+                <a href="../contato.html">Contato</a>
             </h2>
         </menu>
         <h3 align="center">Cadastro de Produto</h3>
